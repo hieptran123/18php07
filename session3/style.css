@@ -1,0 +1,36 @@
+#container {
+	width: 80%;
+	margin: 0 auto;
+	border: 1px solid green;
+	font-weight: bold;
+}
+header .logo {
+	height: 100px;
+	width: 30%;
+	float: left;
+	border: 1px solid green;
+	text-align: center;
+	line-height: 100px;
+}
+header .banner {
+	height: 100px;
+	width: 69.4%;
+	float: left;
+	border: 1px solid green;
+	text-align: center;
+	line-height: 100px;
+}
+header .menu {
+	clear: both;
+	height: 48px;
+	border: 1px solid green;
+	background: pink;
+	text-align: center;
+}
+header .slide {
+	clear: both;
+	height: 48px;
+	border: 1px solid green;
+	background: pink;
+	text-align: center;
+}
