@@ -1,0 +1,51 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#login{
+	width: 50%;
+	height: 300px;
+	border: 1px solid black;
+}
+#main1 {
+	width: 40%;
+	height: 200px;
+	margin: 4px;
+	float: left;
+}
+.main-left{
+	border: 1px solid black;
+}
+.main-right{
+	border: 1px solid black;
+}
+#main2 {
+	float: left;
+	width: 40%;
+	height: 250px;
+	margin: 4px;
+}
+.left,.right{
+	width: 40%;
+	float: left;
+}
+input{
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+p{
+	margin-left: 1em;
+}
+a{
+	margin-left: 1em;
+}
+#buttom{
+	margin-left: .1em;
+}
+.inputleft,.inputright{
+	margin-right: 10px;
+	width: 60%;
+}
+.clear{
+	clear: both;
+}
