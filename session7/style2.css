@@ -1,0 +1,8 @@
+@font-face{
+	font-family: myfont;
+	src: url('font/AbhayaLibre-ExtraBold.ttf');
+}
+p{
+	font-weight: bold;
+	font-size: 25px;
+}

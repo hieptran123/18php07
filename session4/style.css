@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#main{
+	height: 250px;
+	width: 30%;
+	margin: 0 auto;
+	border: 2px solid green;
+	box-shadow: 3px 4px red;
+}
+h4{
+	margin-left: 20px;
+}
+ul li{
+	padding: 8px;
+	list-style-type: none;
+	margin: 10px 20px;
+	margin-bottom: 1.5em;
+	width: 200px;
+	border: 1px solid green;
+}
+a{
+	text-decoration: none;
+}
